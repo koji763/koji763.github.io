@@ -719,6 +719,12 @@ small {
   }
 
   /*project_overlay*/
+
+  .card-container {
+    display: flex;
+    justify-content: center;
+}
+
   .card-image-project {
       position: relative;
       cursor: pointer;
